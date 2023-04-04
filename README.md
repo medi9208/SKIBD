@@ -32,7 +32,7 @@ Podsumowując: informacje zaszyfrowaną kluczem prywatnym można rozszyfrować t
 >  1. `nano` - prosty edytor tekstu
 >  2. `cat > [nazwa pliku]`, po wpisaniu komendy możemy wpisać tekst który chcemy aby znalazł się w pliku. Aby zakończyć wprowadzanie tekstu do pliku przenosimy się Enterem do nowej lini i wciskamy Ctr + D.
 > 3. `echo [tekst] > [nazwa_pliku].txt` - przekierowanie wyjścia za pomocą komendy echo
-> 4. `vi [nazwa_pliku] - rozbudowany edytor tekstu
+> 4. `vi [nazwa_pliku]` - rozbudowany edytor tekstu
 
 - [x] Zmienienie dla pliku tekstowego praw dostępu tak aby tylko właściciel pliku miał prawo do wyświetlania i edytowania go `chmod 600`
 > `chmod [opcje] [nazwa_pliku]` - komenda w systemach uniksowych do zmiany praw dostępu do pliku lub katalogu
