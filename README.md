@@ -66,8 +66,11 @@ Podsumowując: informacje zaszyfrowaną kluczem prywatnym można rozszyfrować t
 - [x] Wyświetlenie procesów `ps`. `top`, `pstree`
 > Proces - wykonujący się program
 > `ps` - wyświetla procesy w terminalu z ich numerami PID (identyfikator procesu), TTY (nazwa terminala), TIME (czas wykorzystywany przez proces) i  CMD (nazwa programu).
+> 
 > `pstree` - procesy w postaci drzewa procesów
+> 
 > `top` - wyświetla wszystkie procesy, oraz ich stan, daje najwięcej informacji
+
 - [x] Przetestowanie jakie procesy mogą być wyświetlane w zależności od wybranych opcji
 
 ### 4. Liczenie lini w pliku
